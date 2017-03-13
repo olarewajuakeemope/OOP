@@ -1,0 +1,25 @@
+{
+  "name": "oop",
+  "version": "1.0.0",
+  "description": "OOP project for day1 Bootcamp home study",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olarewajuakeemope/OOP.git"
+  },
+  "author": "Olarewaju Akeem Opeyemi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olarewajuakeemope/OOP/issues"
+  },
+  "homepage": "https://github.com/olarewajuakeemope/OOP#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
