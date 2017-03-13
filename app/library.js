@@ -77,6 +77,7 @@ SystemPeople.prototype = {
   }
 }
 
+
 //assign appropriate roles to members
 
 function MemberRole(memberType) {
