@@ -1,5 +1,5 @@
 # OOP
-OOP project for day1 Bootcamp home study
+OOP project
 
 
 1. clone or download the application to your local computer
